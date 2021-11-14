@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908694897884",
+    "project_id": "fir-appmov",
+    "storage_bucket": "fir-appmov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908694897884:android:9c0d6c54a08dfae2e8a019",
+        "android_client_info": {
+          "package_name": "com.mobileapps.playlistbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908694897884-kfitst7l3oitq2g600mj3fn00iug6af8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZjb7QoYQ8fHH0ut6mYnJTDzptdfcVY3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908694897884-kfitst7l3oitq2g600mj3fn00iug6af8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
